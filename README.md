@@ -1,5 +1,7 @@
 # JBake Site - Groovy Template
 
+http://melix.github.io/blog/2014/02/hosting-jbake-github.html
+
 http://jdmartinho.com/blog/blog/2015/2015-08-22-how-to-create-a-blog.html
 
 http://coffeaelectronica.com/blog/2015/baking-with-groovy-and-github.html
@@ -23,3 +25,15 @@ You can start a local server with your generated content using:
 When you are ready to publish the site to your GitHub-Pages, run:
 
   ./gradlew publish
+
+
+http://asciidoctor.github.io/asciidoctor-gradle-examples/
+
+https://github.com/asciidoctor/asciidoctor-gradle-examples/blob/master/README.adoc
+
+http://willis7.github.io/blog/2014/jbake-blog.html
+
+https://github.com/melix/blog
+
+http://melix.github.io/blog/2014/02/hosting-jbake-github.html
+
